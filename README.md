@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SUKowalski
-- 👀 I’m interested in pandas
+- 👀 I’m interested in pandas and beers
 - 🌱 I’m currently learning the wheel
 - 💞️ I’m looking to collaborate on saving the planet
 - 📫 How to reach me - don't
